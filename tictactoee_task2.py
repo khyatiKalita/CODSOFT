@@ -152,5 +152,5 @@ def main():
     turtle.onscreenclick(click_handler)
     turtle.done()
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
